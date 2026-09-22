@@ -1,2 +1,3 @@
-# Public
-This is a public repository for SophiaLight project.
+# SophiaLight
+
+Official repository for the SophiaLight project.
